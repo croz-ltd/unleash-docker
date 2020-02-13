@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "unleash-server": "^3.2.23"
+    "unleash-server": "^3.2.23",
+    "@exlinc/keycloak-passport": "^1.0.2",
+    "passport": "^0.4.1"
   }
 }
